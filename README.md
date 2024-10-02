@@ -1,1 +1,1 @@
-# hr-analytics-power-BI
+This project involves the development of an interactive HR Analytics Dashboard using Power BI to help HR teams track and analyze key employee metrics. The dashboard provides insights into employee attrition, salary distribution, and tenure across various departments, enabling data-driven decisions to improve HR processes.
